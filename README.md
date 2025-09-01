@@ -18,6 +18,11 @@ It provides a **colorful animated interface**, simple menu navigation, and autom
 
 ---
 
+ONE CLICK COMMAND       bash <(curl -fsSL https://raw.githubusercontent.com/dimmy-bit/mir-cli/main/mir.sh)
+
+
+MANUAL INSTALL
+
 Install All Required Dependencies
 
 Run the following commands to install everything needed for MIR CLI:
